@@ -2,7 +2,7 @@
 
 ### **Author** : _Vipul Vaishnav_
 
-![YAML]("./Screenshots/Yaml.png")
+![YAML](/YAML/Screenshots/Yaml.png)
 
 This is a repo for Yaml Practice code
 There is also a little comparison all different
