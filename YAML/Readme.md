@@ -2,7 +2,7 @@
 
 ### **Author** : _Vipul Vaishnav_
 
-![YAML](https://github.com/vipul-vaishnav/Devops/YAML/Screenshots/Yaml.png)
+![YAML]("./Screenshots/Yaml.png")
 
 This is a repo for Yaml Practice code
 There is also a little comparison all different
