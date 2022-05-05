@@ -1,0 +1,20 @@
+zero: !!int 0
+positive: !!int 45
+negative: !!int -45
+commaValue: !!int +540_000
+
+marks: !!float 54.55
+infinity: !!float .inf
+notANumber: .nan
+
+bool: !!bool true
+
+message: !!str string
+nothing: !!null null # , ~
+~: "This is a null key"
+
+date: !!timestamp 2022-04-22
+time: 23:24
+TIME: !!timestamp 2021-06-24T00:00:00Z
+
+exponent number: !!float 6.023E56

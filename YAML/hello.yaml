@@ -1,0 +1,28 @@
+# key-value pairs
+
+"name": "vipul"
+"age": 25
+1: "This is just a number"
+---
+# A list of Fruits
+Fruits:
+  - apple
+  - banana
+  - mango
+---
+# Employee records
+Employees:
+  - martin:
+      name: Martin D'vloper
+      job: Developer
+      skills:
+        - python
+        - perl
+        - pascal
+  - tabitha:
+      name: Tabitha Bitumen
+      job: Developer
+      skills:
+        - lisp
+        - fortran
+        - erlang

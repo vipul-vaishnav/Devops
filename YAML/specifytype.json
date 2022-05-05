@@ -1,0 +1,17 @@
+{
+  "zero": 0,
+  "positive": 45,
+  "negative": -45,
+  "commaValue": 540000,
+  "marks": 54.55,
+  "infinity": null,
+  "notANumber": null,
+  "bool": true,
+  "message": "string",
+  "nothing": null,
+  "null": "This is a null key",
+  "date": "2022-04-22T00:00:00.000Z",
+  "time": 1404,
+  "TIME": "2021-06-24T00:00:00.000Z",
+  "exponent number": 6.023e56
+}

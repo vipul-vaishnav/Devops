@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<School>
+  <name>GBS</name>
+  <principal>Cp Purohit</principal>
+  <Students>
+    <Student>
+      <rno>23</rno>
+      <name>Vipul</name>
+      <marks>94.67</marks>
+    </Student>
+  </Students>
+</School>

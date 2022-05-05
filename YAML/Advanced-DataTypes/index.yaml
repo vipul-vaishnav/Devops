@@ -1,0 +1,19 @@
+# employees
+Employees: !!omap
+  - martin:
+      name: "Martin Kimber"
+      age: 27
+      position: "Developer"
+      skills:
+        - python
+        - php
+        - database
+  - samuel:
+      name: "Samuel Digser"
+      age: 31
+      position: "Developer"
+      skills:
+        - javascript
+        - jQuery
+        - apis
+# !!pairs, !!seq, !!map, !!set, !!omap

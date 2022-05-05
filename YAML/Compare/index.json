@@ -1,0 +1,13 @@
+{
+  "School": {
+    "name": "GBS",
+    "principal": "Cp Purohit",
+    "Students": {
+      "Student": {
+        "rno": 23,
+        "name": "Vipul",
+        "marks": 94.67
+      }
+    }
+  }
+}

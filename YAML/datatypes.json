@@ -1,0 +1,11 @@
+{
+  "myself": "vipul",
+  "age": 22,
+  "networth": 44.8,
+  "full": "million dollars",
+  "isalive": "Yes",
+  "under18": "No",
+  "cars": ["mercedes", "audi", "porsche"],
+  "bio": "i am vipul vaishnav\ni am 22 years old\ni own a mercedes,\na audi and a porsche.\n",
+  "message": "this is my message to the world \"Work in silence let your success make the noise.\"\n"
+}

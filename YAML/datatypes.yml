@@ -1,0 +1,29 @@
+# string variables
+
+myself: vipul
+
+# number variables
+age: 22
+networth: 44.8
+full: million dollars
+
+# boolean variables
+isalive: Yes
+under18: No
+
+cars:
+  - mercedes
+  - audi
+  - porsche
+bio: |
+  i am vipul vaishnav
+  i am 22 years old
+  i own a mercedes,
+  a audi and a porsche.
+message: >
+  this is my
+  message to
+  the world
+  "Work in silence
+  let your success
+  make the noise."

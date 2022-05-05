@@ -1,0 +1,10 @@
+likings: &likings
+  - fruits: ["Mango", "Bananas", "Apples"]
+  - cars: ["Mercedes", "Audi", "Porsche"]
+  - sports: ["Soccer", "Wrestling", "Cricket"]
+
+Person:
+  first_name: "John"
+  last_name: "Shelby"
+  age: 20
+  likings: *likings
